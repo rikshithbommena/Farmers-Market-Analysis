@@ -36,7 +36,7 @@ This Farmers Market Dashboard is built using Power BI to provide a comprehensive
  <a href ="https://github.com/rikshithbommena/Farmer-Market-Analysis/tree/main/datasets">DataSet</a>
 
 ## 📷 Screenshot
-<img width="1435" height="807" alt="Screenshot (522)" src="https://github.com/user-attachments/assets/fadac799-dd16-4339-9eb5-dbb95ae7257b" />
+<img width="1435" height="807" alt="Screenshot (522)" src="[https://github.com/user-attachments/assets/fadac799-dd16-4339-9eb5-dbb95ae7257b](https://github.com/rikshithbommena/Farmers-Market-Analysis/blob/main/Images/Screenshot%20(1115).png)" />
 ## All Images
 <a href="https://github.com/rikshithbommena/Farmer-Market-Analysis/tree/main/Images">Images<a/>
 
